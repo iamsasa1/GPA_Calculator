@@ -1,0 +1,66 @@
+body {
+  background: #fbf3ff;
+}
+
+/**navigation**/
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.navbar-brand img {
+  height: 3rem;
+  font-weight: 700;
+  letter-spacing: 0.1rem;
+}
+
+.navbar {
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  box-shadow: 0.5rem 0.5rem rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+
+.nav-item {
+  padding: 0.5rem;
+}
+
+.nav-link {
+  color: #2926ca;
+}
+
+.nav-link.active,
+.nav-link:hover {
+  color: #2926ca;
+}
+
+/**top-bar**/
+.top-bar {
+  background: #e6b3ff;
+  height: 3.5rem;
+  padding: 0.5rem 0;
+}
+
+/**jumbotron**/
+.jumbotron{
+	background-color: #ffe6ff !important;
+}
+
+#info-btn{
+	background-color: #ff80ff !important;
+	color:black !important;
+}
+
+#result-selector{
+	background-color: #ff80ff !important;
+}
+
+#result-credit{
+	margin: 0px;
+}
+
+#gpaResult, .res {
+	float: left;
+}
