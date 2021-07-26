@@ -3,7 +3,7 @@
 
 **You can clone ⬇️ this repo and run it through your localhost.** 
 
-👉👉 Follow the _`**UserName**`_ & _`**Password**`_ to log in to this calculator. 
+👉👉 Use the below 👇👇 _`**UserName**`_ & _`**Password**`_ to log in to this calculator. 
 
 ➡️  **_`Default UserName`_** = test
 
